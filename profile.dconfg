@@ -1,0 +1,14 @@
+[/]
+background-color='rgb(30,30,30)'
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-colors-set=false
+default-size-columns=120
+font='Hack 11'
+foreground-color='rgb(255,255,255)'
+highlight-colors-set=false
+palette=['rgb(30,30,30)', 'rgb(254,74,73)', 'rgb(134,253,184)', 'rgb(253,163,49)', 'rgb(112,214,255)', 'rgb(224,0,180)', 'rgb(0,245,220)', 'rgb(184,184,184)', 'rgb(80,79,84)', 'rgb(254,74,73)', 'rgb(134,253,184)', 'rgb(253,163,49)', 'rgb(112,214,255)', 'rgb(224,0,180)', 'rgb(0,245,220)', 'rgb(184,184,184)']
+scrollbar-policy='never'
+use-system-font=false
+use-theme-colors=false
+visible-name='Mauricio'
